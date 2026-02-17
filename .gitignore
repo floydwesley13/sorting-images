@@ -1,0 +1,14 @@
+```
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Test and sample data directories
+test_mirror/
+sample_fandom_mirror/
+```
